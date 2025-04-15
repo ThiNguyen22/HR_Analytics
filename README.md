@@ -28,7 +28,7 @@ Dashboard được xây dựng bằng **PivotTable và biểu đồ trong Excel*
 - **Tính năng tương tác**:  
   - Bộ lọc (slicer) theo phòng ban và ngành học  
 
-![Ảnh Dashboard](https://drive.google.com/file/d/1QITDbiBetAs24XHMOe20z2UqLiuCLTUs/view?usp=sharing) <!-- Thay bằng link hình ảnh nếu có -->
+![Ảnh Dashboard](https://drive.google.com/uc?export=view&id=1QITDbiBetAs24XHMOe20z2UqLiuCLTUs) 
 
 ## 🔍 Những phát hiện chính và đề ra biện pháp khắc phục
 
